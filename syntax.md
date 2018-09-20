@@ -32,5 +32,5 @@ Condition | --- | ---
 ------------ | ------------- | -------------
 Long / Short | ![GitHub Logo](https://i.imgur.com/O68yVkc.png) | ![GitHub Logo](https://i.imgur.com/pYei6i5.png)
 SL / TP | ![GitHub Logo](https://i.imgur.com/zHnLlGx.png) | ![GitHub Logo](https://i.imgur.com/iHuUOd1.png)
-
+<br><br>
 [ProfitView Discord](http://discord.gg/J2RKn3C)
