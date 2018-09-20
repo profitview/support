@@ -1,4 +1,5 @@
-# Sample Syntax for [Open-Close-Cross (OCC)](https://occ.profitview.app/) & [Multipass (MP)](https://multipass.profitview.app/) Indicator: 
+# Simple Syntax examples for:
+[Open-Close-Cross (OCC)](https://occ.profitview.app/) & [Multipass (MP)](https://multipass.profitview.app/) Indicator: 
 
 
 **LONG**
