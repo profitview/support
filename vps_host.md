@@ -1,4 +1,4 @@
-## Need to run your bot 24/7? Get a cheap VPS.
+## Need to run your PV bot 24/7? Get a cheap VPS.
 
 Please be aware that by renting a VPS you get mostly a barebones virtual Linux system. There is no user friendly graphical interface and everything will be done through command line. You will be expected to:
 
@@ -24,4 +24,4 @@ You can always self-host on your own hardware. A Raspberry Pi 2 B will be more t
 For bigger bots, you can build your own server PC for usage, or buy a rack server.
 Any modern hardware should work 100% fine.
 <br><br>
-[TradeSpot Discord](https://discordapp.com/invite/eEUs5WX)
+[ProfitView Discord](http://discord.gg/J2RKn3C)
